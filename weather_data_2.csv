@@ -1,0 +1,156 @@
+Temperature,Pressure,Humidity,Wind Direction,Wind Speed,Weather Description
+42.134,1013,93,60,4,thunderstorm with light rain
+38.714,1014,100,50,4,thunderstorm with heavy rain
+51.782,1015,87,300,2,thunderstorm with rain
+54.806,1024,47,130,3,thunderstorm
+48.596,1021,66,90,6,thunderstorm
+44.762,1022,93,50,3,thunderstorm with light rain
+44.546,1020,93,110,5,thunderstorm with light rain
+45.518,1016,87,110,3,thunderstorm with light rain
+69.062,1015,49,100,3,thunderstorm
+69.854,1006,68,240,1,thunderstorm
+72.176,1011,73,240,3,thunderstorm with light rain
+80.942,1017,62,150,3,thunderstorm with rain
+69.026,1013,94,210,1,thunderstorm
+63.572,998,94,109,2,thunderstorm with rain
+66.776,1009,84,202,2,thunderstorm with light rain
+63.41,1012,86,36,3,thunderstorm
+78.134,1012,92,282,2,thunderstorm with light rain
+78.134,1009,94,249,1,thunderstorm with light rain
+76.244,1007,82,167,0,thunderstorm
+75.956,1004,75,174,2,thunderstorm
+69.728,1006,83,240,2,thunderstorm with light rain
+67.532,1005,94,103,0,thunderstorm with rain
+74.228,999,100,318,2,thunderstorm with light rain
+75.2,1015,84,301,1,thunderstorm with light rain
+74.012,1013,94,200,2,thunderstorm with light rain
+78.638,1024,86,171,1,thunderstorm
+77.936,1023,86,171,1,thunderstorm
+86.414,1021,46,250,3,thunderstorm with heavy rain
+81.194,1008,48,310,7,thunderstorm
+80.078,1008,74,260,3,thunderstorm with light rain
+77.486,1007,78,220,5,thunderstorm
+76.388,1007,93,278,4,thunderstorm
+69.692,1009,83,180,5,thunderstorm
+65.93,1009,82,300,3,thunderstorm with rain
+67.478,1010,92,323,2,thunderstorm with heavy rain
+66.2,1012,88,272,1,thunderstorm with rain
+80.996,1016,74,77,1,thunderstorm
+44.33,1019,60,107,3,thunderstorm
+44.348,1015,55,69,1,thunderstorm
+55.778,1018,66,30,2,thunderstorm
+68.828,1005,83,157,2,thunderstorm with light rain
+61.844,1014,87,70,2,thunderstorm
+59.936,1012,88,250,1,thunderstorm with rain
+73.796,1006,100,210,3,thunderstorm with light rain
+72.338,1005,100,240,5,thunderstorm with light rain
+76.64,1013,69,230,2,thunderstorm
+68.252,1015,72,320,1,thunderstorm with heavy rain
+79.196,1019,44,210,3,thunderstorm
+66.794,1020,100,310,2,thunderstorm with rain
+72.536,1002,78,210,2,thunderstorm
+77.09,999,74,280,5,thunderstorm with light rain
+81.716,1013,54,10,3,thunderstorm
+77.81,1012,88,230,3,thunderstorm with light rain
+88.574,1012,44,210,4,thunderstorm with rain
+75.182,1011,83,250,1,thunderstorm with light rain
+72.77,1010,88,281,0,thunderstorm
+84.488,1017,58,270,2,thunderstorm
+71.258,1007,94,180,2,thunderstorm with light rain
+69.152,1006,94,270,3,thunderstorm with heavy rain
+72.176,1009,73,180,5,thunderstorm with light rain
+88.232,1014,49,280,5,thunderstorm
+78.44,1015,69,270,11,thunderstorm
+72.626,1014,94,237,1,thunderstorm with light rain
+68.288,1015,100,160,2,thunderstorm with rain
+68.918,1009,94,180,3,thunderstorm with rain
+68.846,1007,94,170,4,thunderstorm with rain
+37.508,1012,69,80,6,thunderstorm with rain
+44.006,1008,87,60,5,thunderstorm with rain
+43.25,1006,100,60,5,thunderstorm with light rain
+54.05,1001,81,220,7,thunderstorm
+48.632,1005,93,70,4,thunderstorm with rain
+48.506,1003,100,295,3,thunderstorm with rain
+50.36,1006,100,80,1,thunderstorm with heavy rain
+50.594,1004,93,50,2,thunderstorm with rain
+61.664,1012,93,230,3,thunderstorm with rain
+82.706,1014,48,190,9,thunderstorm
+81.464,1013,73,220,5,thunderstorm with light rain
+68.846,1001,82,240,8,thunderstorm
+79.178,1001,32,220,7,thunderstorm
+71.582,1010,94,210,3,thunderstorm with rain
+70.232,1011,94,350,5,thunderstorm with heavy rain
+75.722,1007,83,290,6,thunderstorm
+86.81,1017,58,230,7,thunderstorm
+76.37,1015,88,195,3,thunderstorm with heavy rain
+79.988,1011,83,230,6,thunderstorm
+77.252,1012,88,210,5,thunderstorm with rain
+77.738,1013,65,40,6,thunderstorm
+81.356,1015,78,40,5,thunderstorm with light rain
+78.44,1015,83,0,1,thunderstorm with light rain
+69.17,1014,83,40,4,thunderstorm
+70.016,1015,83,60,5,thunderstorm with light rain
+76.928,1016,88,40,3,thunderstorm with light rain
+81.842,1020,45,170,3,thunderstorm
+84.92,1023,55,260,3,thunderstorm
+84.56,1022,55,260,2,thunderstorm
+70.286,1012,88,120,3,thunderstorm with rain
+69.602,1011,88,70,4,thunderstorm with rain
+68.792,1010,94,60,3,thunderstorm with rain
+63.698,1021,93,80,1,thunderstorm with rain
+64.04,1021,93,10,3,thunderstorm with light rain
+63.122,1011,55,220,7,thunderstorm with rain
+42.602,1008,93,160,3,thunderstorm with light rain
+46.202,1007,93,190,8,thunderstorm with rain
+49.406,1004,93,160,4,thunderstorm with rain
+61.196,1001,72,210,5,thunderstorm
+54.41,1005,93,160,4,thunderstorm with heavy rain
+55.22,1003,87,170,3,thunderstorm with light rain
+54.788,1002,93,250,4,thunderstorm with light rain
+64.49,1015,66,30,6,thunderstorm
+57.182,1018,87,20,3,thunderstorm with light rain
+69.98,1013,43,220,7,thunderstorm
+67.658,1012,72,250,6,thunderstorm
+73.922,1014,44,220,7,thunderstorm
+51.98,1019,87,163,2,thunderstorm with light rain
+47.66,1018,81,70,3,thunderstorm
+57.758,1009,93,90,2,thunderstorm with rain
+63.59,1002,59,152,4,thunderstorm
+55.922,1016,38,170,1,thunderstorm
+54.68,1016,66,144,3,thunderstorm with rain
+54.842,1015,66,163,3,thunderstorm
+76.622,1009,36,250,7,thunderstorm with light rain
+76.496,1009,44,150,1,thunderstorm
+74.012,1010,64,350,3,thunderstorm with light rain
+79.88,1016,57,60,4,thunderstorm
+75.812,1008,34,280,3,thunderstorm
+67.784,1009,77,240,3,thunderstorm with rain
+67.01,1010,60,350,4,thunderstorm with light rain
+63.392,1014,72,96,2,thunderstorm with light rain
+72.5,1009,88,200,3,thunderstorm with light rain
+69.008,1011,100,230,2,thunderstorm with rain
+80.834,1011,57,250,5,thunderstorm
+78.062,1011,57,280,3,thunderstorm with heavy rain
+76.658,1007,83,30,2,thunderstorm
+72.518,1009,54,200,3,thunderstorm
+69.62,1009,94,230,2,thunderstorm
+66.56,1014,88,218,2,thunderstorm
+74.84,1014,94,80,1,thunderstorm
+75.056,1013,94,0,2,thunderstorm
+77.81,1016,83,200,3,thunderstorm
+85.226,1016,51,280,3,thunderstorm with light rain
+75.2,1017,93,100,3,thunderstorm
+72.014,1017,73,206,2,thunderstorm
+67.82,1010,77,230,4,thunderstorm with rain
+77,1015,65,210,3,thunderstorm
+77,1015,65,210,3,thunderstorm
+78.314,1013,64,340,4,thunderstorm with light rain
+74.12,1012,94,120,1,thunderstorm
+64.796,1018,100,30,3,thunderstorm with heavy rain
+64.796,1019,93,158,4,thunderstorm with heavy rain
+65.588,1015,48,280,4,thunderstorm
+72.626,1003,88,240,12,thunderstorm with heavy rain
+57.362,1015,93,330,4,thunderstorm with heavy rain
+47.534,1016,93,100,6,thunderstorm
+47.408,1016,100,110,5,thunderstorm with rain
+62.204,1005,100,170,8,thunderstorm with rain
